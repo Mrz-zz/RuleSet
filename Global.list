@@ -2,6 +2,9 @@
 # Self-Used
 DOMAIN-KEYWORD,v2ex
 
+# 告别出版商绑架
+DOMAIN-KEYWORD,sci-hub
+
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
