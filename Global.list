@@ -458,6 +458,8 @@ DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
 
+# DOMAIN-SUFFIX, jetbrains.com
+
 
 # (IP Blackhole)
 
