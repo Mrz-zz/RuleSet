@@ -1,11 +1,5 @@
 # Apple Proxy
 
-## Enable Apple News
-DOMAIN-SUFFIX,ls.apple.com
-PROCESS-NAME,News
-USER-AGENT,AppleNews*
-USER-AGENT,News*
-DOMAIN,apple.comscoreresearch.com
 
 # Other Apple Service
 DOMAIN,developer.apple.com
@@ -14,15 +8,12 @@ USER-AGENT,com.apple.trustd*
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloud-content.com
 
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 
-# Enterprise App validation
-DOMAIN,ppq.apple.com 
 
 
 # > App Store Connect
@@ -40,8 +31,6 @@ DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
 
 # > Apple Music
-PROCESS-NAME,Music
-USER-AGENT,Music*
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,audio.itunes.apple.com
@@ -49,8 +38,6 @@ DOMAIN,audio-ssl.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
 
-# iCloud Music Library
-DOMAIN-SUFFIX,blobstore.apple.com 
 
 
 
