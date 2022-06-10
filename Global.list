@@ -29,6 +29,13 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 
+# > Slack
+USER-AGENT,Slack*
+PROCESS-NAME,Slack
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-msgs.com
+
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
