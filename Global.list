@@ -5,6 +5,9 @@ DOMAIN-KEYWORD,v2ex
 # 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
 
+#Jetbrians
+DOMAIN-SUFFIX,jetbrains.com
+
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
@@ -468,7 +471,7 @@ DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
 
-DOMAIN-SUFFIX, jetbrains.com
+
 DOMAIN-KEYWORD, stackoverflow
 
 # (IP Blackhole)
