@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,vungle.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
+
+
 DOMAIN-SUFFIX,10up.com
 DOMAIN-SUFFIX,111cn.net
 DOMAIN-SUFFIX,114la.com
@@ -649,3 +651,6 @@ DOMAIN-SUFFIX,traffic.uusee.com
 DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
+
+# Content Farm
+DOMAIN-KEYWORD,tee25.com
