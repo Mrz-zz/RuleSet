@@ -1,5 +1,9 @@
 DOMAIN-SUFFIX,baidu.com
 
+#jetbrains
+DOMAIN-SUFFIX,datalore.jetbrains.com
+
+
 # Apple
 DOMAIN,safebrowsing.googleapis.com
 USER-AGENT,com.apple.appstored*
