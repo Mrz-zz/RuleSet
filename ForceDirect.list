@@ -1,8 +1,10 @@
 DOMAIN-SUFFIX,baidu.com
 
-#jetbrains
+# Jetbrains
 DOMAIN-SUFFIX,datalore.jetbrains.com
 
+# Overleaf
+DOMAIN-SUFFIX,overleaf.com
 
 # Apple
 DOMAIN,safebrowsing.googleapis.com
