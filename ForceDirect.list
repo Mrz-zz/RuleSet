@@ -1,10 +1,5 @@
 DOMAIN-SUFFIX,baidu.com
 
-# Jetbrains
-DOMAIN-SUFFIX,datalore.jetbrains.com
-
-# Overleaf
-DOMAIN-SUFFIX,overleaf.com
 
 # Apple
 DOMAIN,safebrowsing.googleapis.com
@@ -12,7 +7,6 @@ USER-AGENT,com.apple.appstored*
 USER-AGENT,AppStore*
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 USER-AGENT,cloudd*
 AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*))
@@ -25,7 +19,6 @@ DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,mwcloudcdn.com
 DOMAIN-SUFFIX,mwcname.com
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN,captive.apple.com
