@@ -14,7 +14,8 @@ DOMAIN,cvws.icloud-content.com
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 
-
+# Dictionary Lookup
+DOMAIN,lookup-api.apple.com
 
 # > App Store Connect
 DOMAIN,appstoreconnect.apple.com
