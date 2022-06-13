@@ -12,6 +12,10 @@ DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,pkulaw
 DOMAIN-KEYWORD,westlawchina
 
+# IEEE
+DOMAIN-SUFFIX,ieee.org
+
+
 # 查找 DOI
 DOMAIN-SUFFIX,doi.org
 
