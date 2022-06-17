@@ -10,7 +10,7 @@ DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloud-content.com
-
+DOMAIN-SUFFIX,news-edge.apple.com
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 
