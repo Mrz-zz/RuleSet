@@ -13,7 +13,7 @@ DOMAIN,cvws.icloud-content.com
 DOMAIN-SUFFIX,news-edge.apple.com
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
-
+DOMAIN,c.apple.news
 # Dictionary Lookup
 DOMAIN,lookup-api.apple.com
 
