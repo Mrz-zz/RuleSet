@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN,google.com
+
+
 
 # (IP Blackhole)
 # > Google
