@@ -1,4 +1,10 @@
 # (DNS Cache Pollution)
+
+# Brew
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-KEYWORD,brew
+
+
 # Self-Used
 DOMAIN-KEYWORD,v2ex
 
@@ -99,6 +105,7 @@ DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
+
 
 # > Reddit
 DOMAIN-SUFFIX,redd.it
