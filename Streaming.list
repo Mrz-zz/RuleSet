@@ -1,5 +1,9 @@
 # Streaming Media
 # (Podcast)
+
+# BiliBili
+DOMAIN-SUFFIX,bilibili.com
+
 # > Himalaya
 USER-AGENT,Himalaya*
 DOMAIN-SUFFIX,himalaya.com
