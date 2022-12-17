@@ -1,9 +1,11 @@
 # (DNS Cache Pollution)
 
-# Brew
+# brew
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-KEYWORD,brew
 
+# OpenAI
+DOMAIN-SUFFIX,openai.com
 
 # Self-Used
 DOMAIN-KEYWORD,v2ex
