@@ -1,5 +1,8 @@
 # (DNS Cache Pollution)
 
+# HuggingFace
+DOMAIN-SUFFIX,huggingface.co
+
 # brew
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-KEYWORD,brew
