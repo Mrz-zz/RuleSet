@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,baidu.com
-
-
 # Apple
 DOMAIN,safebrowsing.googleapis.com
 USER-AGENT,com.apple.appstored*
