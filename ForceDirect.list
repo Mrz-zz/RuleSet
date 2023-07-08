@@ -1,13 +1,13 @@
 # Apple
-DOMAIN,safebrowsing.googleapis.com
+
 USER-AGENT,com.apple.appstored*
-USER-AGENT,AppStore*
+
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,itunes.apple.com
+
 DOMAIN-SUFFIX,icloud-content.com
 USER-AGENT,cloudd*
 AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*))
-DOMAIN-SUFFIX,me.com
+
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,cdn-apple.com
