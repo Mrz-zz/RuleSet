@@ -1,5 +1,9 @@
 # (DNS Cache Pollution)
 
+# forvo
+DOMAIN-SUFFIX,appapi.forvo.com
+
+
 # HuggingFace
 DOMAIN-SUFFIX,huggingface.co
 
