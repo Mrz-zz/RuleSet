@@ -10,19 +10,25 @@ DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloud-content.com
+
 # news
 DOMAIN,news-edge.apple.com
 DOMAIN,c.apple.news
+
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 
 # Dictionary Lookup
 DOMAIN,lookup-api.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 
 # > App Store Connect
 DOMAIN,appstoreconnect.apple.com
 DOMAIN,iosapps-ssl.itunes.apple.com
 DOMAIN,itcmobile.itunes.apple.com
+
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com
 
 
 # > Apple 
