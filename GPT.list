@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,bard.google.com
 
 # Add intelj AI
 DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Claude AI
+DOMAIN-KEYWORD,claude.ai
