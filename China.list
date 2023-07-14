@@ -31,17 +31,14 @@ DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
-# > Battle
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blizzard.com
 
 # > bilibili
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,hdslb.com
+#DOMAIN-SUFFIX,acgvideo.com
+#DOMAIN-SUFFIX,biliapi.com
+#DOMAIN-SUFFIX,biliapi.net
+#DOMAIN-SUFFIX,bilibili.com
+#DOMAIN-SUFFIX,bilibili.tv
+#DOMAIN-SUFFIX,hdslb.com
 
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
@@ -68,9 +65,9 @@ DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
 
 # > iQiyi
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,71.am
+# DOMAIN-SUFFIX,iqiyi.com
+# DOMAIN-SUFFIX,iqiyipic.com
+# DOMAIN-SUFFIX,71.am
 
 # > JD
 DOMAIN-SUFFIX,jd.com
@@ -119,7 +116,6 @@ DOMAIN,ntservicepack.microsoft.com
 
 # > NetEase
 USER-AGENT,NeteaseMusic*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
