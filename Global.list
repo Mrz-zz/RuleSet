@@ -89,6 +89,8 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 
+# > vscode
+DOMAIN-SUFFIX,vscode.dev
 
 # > Line
 DOMAIN-SUFFIX,line.me
