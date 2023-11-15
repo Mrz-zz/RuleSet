@@ -7,34 +7,34 @@ DOMAIN-SUFFIX,forvo.com
 # HuggingFace
 DOMAIN-SUFFIX,huggingface.co
 
-# brew
+# homebrew
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-KEYWORD,brew
 
-# OpenAI (See GPT)
+# OpenAI
 # DOMAIN-SUFFIX,openai.com
 
 # Self-Used
 DOMAIN-KEYWORD,v2ex
 
-# 告别出版商绑架
+# SCI-Hub
 DOMAIN-KEYWORD,sci-hub
 
 #Jetbrians
 DOMAIN-SUFFIX,jetbrains.com
 
-# > Amazon
+# Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,payments-jp.amazon.com
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 
-# > Akamai
+# Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 
-# > Cryptocurrency
+# Cryptocurrency
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.com
@@ -46,23 +46,23 @@ DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,zb.com
 
-# > Discord
+# Discord
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 
-# > Slack
+# Slack
 USER-AGENT,Slack*
 PROCESS-NAME,Slack
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-msgs.com
 
-# > Dropbox
+# Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 
-# > Facebook
+# Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 
-# > Github
+# Github
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -89,10 +89,10 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 
-# > vscode
+# vscode
 DOMAIN-SUFFIX,vscode.dev
 
-# > Line
+# Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
@@ -102,7 +102,7 @@ IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 
-# > The New York Times
+# The New York Times
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytchina.com
 DOMAIN-SUFFIX,nytcn.me
@@ -112,18 +112,18 @@ DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 
-# > pixiv
+# pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
 
 
-# > Reddit
+# Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 
-# > Telegram
+# Telegram
 # DOMAIN-SUFFIX,telegra.ph
 # DOMAIN-SUFFIX,telegram.org
 # IP-CIDR,91.108.4.0/22,no-resolve
@@ -137,7 +137,7 @@ DOMAIN-SUFFIX,redditmedia.com
 # IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # IP-CIDR6,2001:67c:4e8::/48,no-resolve
 
-# > Twitter
+# Twitter
 # DOMAIN-SUFFIX,pscp.tv
 # DOMAIN-SUFFIX,periscope.tv
 # DOMAIN-SUFFIX,t.co
@@ -147,7 +147,7 @@ DOMAIN-SUFFIX,redditmedia.com
 # DOMAIN-SUFFIX,twitter.com
 # DOMAIN-SUFFIX,vine.co
 
-# > Wikimedia Foundation
+# Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
@@ -155,7 +155,7 @@ DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 
-# > Others
+# Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
@@ -492,11 +492,11 @@ DOMAIN-SUFFIX,mil
 
 DOMAIN-KEYWORD, stackoverflow
 
-# > Facebook
+# Facebook
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-SUFFIX,facebookmail.com
 
-# > Others
+# Others
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,weebly.com
@@ -505,16 +505,16 @@ DOMAIN-SUFFIX,twitter.jp
 # (Region-Restricted Access Denied)
 
 # (Region-Restricted Access Denied)
-# > Apple URL Shortener
+# Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
 
-# > Spotlight
+# Spotlight
 # DOMAIN,api-glb-sea.smoot.apple.com
 # > Look Up
 # DOMAIN-SUFFIX,smoot.apple.com
 # DOMAIN,lookup-api.apple.com
 
-# -> others
+# others
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
 DOMAIN-SUFFIX,ifixit.com
@@ -523,13 +523,13 @@ DOMAIN-SUFFIX,shopeemobile.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
-# > DigiCert
+# DigiCert
 DOMAIN,cacerts.digicert.com
 DOMAIN,crl3.digicert.com
 DOMAIN,crl4.digicert.com
 DOMAIN,ocsp.digicert.com
 
-# > Others
+# Others
 DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,metapix.net
