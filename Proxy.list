@@ -133,7 +133,10 @@ DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
 
 # StackOverFlow
-DOMAIN-KEYWORD, stackoverflow
+DOMAIN-SUFFIX,stackoverflow.com
+
+# Medium
+DOMAIN-SUFFIX,medium.com
 
 
 # Others
