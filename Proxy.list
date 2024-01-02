@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,facebookmail.com
 
 # GitHub
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
@@ -109,14 +110,13 @@ DOMAIN-SUFFIX,redditmedia.com
 # IP-CIDR6,2001:67c:4e8::/48,no-resolve
 
 # Twitter
-# DOMAIN-SUFFIX,pscp.tv
-# DOMAIN-SUFFIX,periscope.tv
-# DOMAIN-SUFFIX,t.co
-# DOMAIN-SUFFIX,twimg.co
-# DOMAIN-SUFFIX,twimg.com
-# DOMAIN-SUFFIX,twitpic.com
-# DOMAIN-SUFFIX,twitter.com
-# DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,twitter.jp
 
 # Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org
@@ -137,13 +137,6 @@ DOMAIN-SUFFIX,stackoverflow.com
 
 # Medium
 DOMAIN-SUFFIX,medium.com
-
-
-# Others
-DOMAIN-SUFFIX,noxinfluencer.com
-DOMAIN-SUFFIX,smartmailcloud.com
-DOMAIN-SUFFIX,weebly.com
-DOMAIN-SUFFIX,twitter.jp
 
 
 # Cloud Provider
