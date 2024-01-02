@@ -148,3 +148,7 @@ DOMAIN-SUFFIX,twitter.jp
 
 # Cloud Provider
 DOMAIN-SUFFIX,leensa.org
+
+# Vercel
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
