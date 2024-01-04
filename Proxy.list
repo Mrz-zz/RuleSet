@@ -145,3 +145,8 @@ DOMAIN-SUFFIX,leensa.org
 # Vercel
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
+
+
+#### for academic use 
+# NIPS (accelate download)
+DOMAIN-SUFFIX, mlr.press
