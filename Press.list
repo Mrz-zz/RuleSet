@@ -1,0 +1,77 @@
+##########################################
+# DOI
+##########################################
+DOMAIN-SUFFIX,doi.org
+
+##########################################
+# SCI 
+##########################################
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,osapublishing.org
+
+##########################################
+## Willey
+##########################################
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-KEYWORD,readcube
+
+
+##########################################
+# Elsevier
+##########################################
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,elsevier
+DOMAIN-KEYWORD,deepdyve
+DOMAIN-KEYWORD,els-cdn
+
+##########################################
+# Oxford
+##########################################
+DOMAIN-SUFFIX,oup.com
+
+
+##########################################
+# Springer
+##########################################
+DOMAIN-SUFFIX,springernature.com
+
+##########################################
+# ACM 
+##########################################
+DOMAIN-SUFFIX,acm.org
+
+##########################################
+# IEEE
+##########################################
+DOMAIN-SUFFIX,ieee.org
+
+##########################################
+## JSTOR
+##########################################
+DOMAIN-SUFFIX,jstor.org
+
+##########################################
+# CNKI
+##########################################
+DOMAIN-KEYWORD,cnki.net
+
+##########################################
+# WangFang
+##########################################
+DOMAIN-KEYWORD,wanfangdata
+
+
+##########################################
+# China Law
+##########################################
+DOMAIN-KEYWORD,pkulaw
+DOMAIN-KEYWORD,westlawchina

@@ -1,52 +1,161 @@
-# arxiv
+####################################################################################
+#                               Academy Related Rules                              #
+####################################################################################
+
+##########################################
+# ArXiv
+##########################################
 DOMAIN-SUFFIX,arxiv.org
 
+##########################################
 # OpenReview
+##########################################
 DOMAIN-SUFFIX,openreview.net
 
-# forvo
-DOMAIN-SUFFIX,forvo.com
+##########################################
+# Academy Accelerate
+##########################################
+DOMAIN-SUFFIX,mlr.press
 
-# HuggingFace
-DOMAIN-SUFFIX,huggingface.co
-
-# HomeBrew
-DOMAIN-SUFFIX,brew.sh
-
-# OpenAI
-# DOMAIN-SUFFIX,openai.com
-
-# v2ex
-DOMAIN-SUFFIX,v2ex.com
-
+##########################################
 # SCI-Hub
+##########################################
 DOMAIN-KEYWORD,sci-hub
 
-#JetBrians
+
+
+
+
+####################################################################################
+#                          Resource & Software Related Rules                       #
+####################################################################################
+
+##########################################
+# HuggingFace
+##########################################
+DOMAIN-SUFFIX,huggingface.co
+
+##########################################
+# HomeBrew
+##########################################
+DOMAIN-SUFFIX,brew.sh
+
+##########################################
+# JetBrians
+##########################################
 DOMAIN-SUFFIX,jetbrains.com
 
+##########################################
+# StackOverFlow
+##########################################
+DOMAIN-SUFFIX,stackoverflow.com
+
+##########################################
 # Amazon
+##########################################
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,payments-jp.amazon.com
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 
-# Discord
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
+##########################################
+# GitHub
+##########################################
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
 
-# Slack
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slack-msgs.com
+##########################################
+# VSCode 
+##########################################
+DOMAIN-SUFFIX,vscode.dev
 
+
+
+
+
+####################################################################################
+#                               Daily Related Rules                                #
+####################################################################################
+
+##########################################
+# Forvo
+##########################################
+DOMAIN-SUFFIX,forvo.com
+
+##########################################
+# v2ex
+##########################################
+DOMAIN-SUFFIX,v2ex.com
+
+##########################################
+# Medium
+##########################################
+DOMAIN-SUFFIX,medium.com
+
+
+
+
+
+####################################################################################
+#                               Utils Related Rules                               #
+####################################################################################
+
+##########################################
+# Leensa
+##########################################
+DOMAIN-SUFFIX,leensa.org
+
+##########################################
+# Vercel
+##########################################
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
+
+##########################################
+# Imgur
+##########################################
+DOMAIN-SUFFIX,imgur.com
+
+##########################################
+# Perplexity
+##########################################
+DOMAIN-SUFFIX,perplexity.ai
+
+##########################################
 # Dropbox
+##########################################
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 
+##########################################
+# Stripe
+##########################################
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+
+
+
+
+
+####################################################################################
+#                          Social Medium Related Rules                             #
+####################################################################################
+
+##########################################
+# Discord
+##########################################
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
+##########################################
 # Facebook
+##########################################
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
@@ -66,36 +175,16 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,facebookmail.com
 
-
-# GitHub
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-
-# vscode
-DOMAIN-SUFFIX,vscode.dev
-
-
-# The New York Times
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytchina.com
-DOMAIN-SUFFIX,nytcn.me
-DOMAIN-SUFFIX,nytco.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytimg.com
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,nytstyle.com
-
-
+##########################################
 # Reddit
+##########################################
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 
+##########################################
 # Telegram
+##########################################
 # DOMAIN-SUFFIX,telegra.ph
 # DOMAIN-SUFFIX,telegram.org
 # IP-CIDR,91.108.4.0/22,no-resolve
@@ -109,7 +198,9 @@ DOMAIN-SUFFIX,redditmedia.com
 # IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # IP-CIDR6,2001:67c:4e8::/48,no-resolve
 
+##########################################
 # Twitter
+##########################################
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
@@ -118,7 +209,9 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,twitter.jp
 
-# Wikimedia Foundation
+##########################################
+# Wikimedia
+##########################################
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
@@ -127,30 +220,9 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 
 
-# domain specific 
+##########################################
+# Domain Specific 
+##########################################
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
-
-# StackOverFlow
-DOMAIN-SUFFIX,stackoverflow.com
-
-# Medium
-DOMAIN-SUFFIX,medium.com
-
-
-# Cloud Provider
-DOMAIN-SUFFIX,leensa.org
-
-# Vercel
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.com
-
-
-#### for academic use 
-# NIPS (accelate download)
-DOMAIN-SUFFIX,mlr.press
-
-
-# image sharing
-DOMAIN-SUFFIX,imgur.com

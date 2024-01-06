@@ -1,4 +1,6 @@
-# Add OpenAI
+##########################################
+# OpenAI
+##########################################
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pay.openai.com
@@ -11,22 +13,28 @@ DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 
-# Add ai.com
+##########################################
+# ai.com
+##########################################
 DOMAIN-SUFFIX,ai.com
 
-# Add stripe.com
-DOMAIN-SUFFIX,invoice.stripe.com
-DOMAIN-SUFFIX,stripe.com
-
-# Add poe.com
+##########################################
+# POE
+##########################################
 DOMAIN-SUFFIX,poe.com
 
-# Add bard.google.com
+##########################################
+# Google Bard
+##########################################
 DOMAIN-SUFFIX,bard.google.com
 
-# Add intelj AI
+##########################################
+# intelj AI
+##########################################
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 
-# Claude AI
+##########################################
+# Claude
+##########################################
 DOMAIN-KEYWORD,claude.ai
 DOMAIN-SUFFIX,anthropic.com
