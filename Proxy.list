@@ -149,4 +149,8 @@ DOMAIN-SUFFIX,vercel.com
 
 #### for academic use 
 # NIPS (accelate download)
-DOMAIN-SUFFIX, mlr.press
+DOMAIN-SUFFIX,mlr.press
+
+
+# image sharing
+DOMAIN-SUFFIX,imgur.com
