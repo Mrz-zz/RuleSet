@@ -156,5 +156,5 @@ USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN,yt3.ggpht.com
