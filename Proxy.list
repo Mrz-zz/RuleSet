@@ -139,6 +139,11 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 
+##########################################
+# conda
+##########################################
+DOMAIN-SUFFIX,conda.io
+
 
 
 
