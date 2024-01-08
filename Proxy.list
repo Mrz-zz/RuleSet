@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 
 
 
