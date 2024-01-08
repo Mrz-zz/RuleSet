@@ -73,7 +73,8 @@ DOMAIN-SUFFIX,githubassets.com
 # VSCode 
 ##########################################
 DOMAIN-SUFFIX,vscode.dev
-
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-cdn.net
 
 
 
