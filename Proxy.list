@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
-DOMAIN-SUFFIX,ms-vscode.gallerycdn.vsassets.io
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
 
 
 
