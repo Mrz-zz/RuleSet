@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
-
+DOMAIN-SUFFIX,chatgpt.com
 ##########################################
 # ai.com
 ##########################################
