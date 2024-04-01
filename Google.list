@@ -38,3 +38,8 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
+
+##########################################
+# MISC
+##########################################
+DOMAIN-SUFFIX,googleblog.com
