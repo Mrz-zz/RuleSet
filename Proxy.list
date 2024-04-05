@@ -105,7 +105,10 @@ DOMAIN-SUFFIX,v2ex.com
 ##########################################
 DOMAIN-SUFFIX,medium.com
 
-
+##########################################
+# Zlib
+##########################################
+DOMAIN-SUFFIX,zlibrary-global.se
 
 
 
