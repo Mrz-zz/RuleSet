@@ -49,3 +49,9 @@ DOMAIN-KEYWORD,suno.ai
 # Coze
 ##########################################
 DOMAIN-KEYWORD,coze.com
+
+##########################################
+# Meta AI
+##########################################
+DOMAIN-SUFFIX,meta.ai.com
+DOMAIN-SUFFIX,ai.meta.com
