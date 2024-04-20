@@ -258,6 +258,4 @@ DOMAIN-SUFFIX,wikiquote.org
 ##########################################
 # Domain Specific 
 ##########################################
-DOMAIN-SUFFIX,edu
-DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
