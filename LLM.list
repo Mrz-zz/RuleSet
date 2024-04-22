@@ -56,3 +56,8 @@ DOMAIN-KEYWORD,coze.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,ai.meta.com
 
+##########################################
+# Groq
+##########################################
+DOMAIN-SUFFIX,groq.com
+
