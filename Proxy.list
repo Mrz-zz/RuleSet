@@ -27,6 +27,11 @@ DOMAIN-SUFFIX,mlr.press
 ##########################################
 DOMAIN-KEYWORD,sci-hub
 
+##########################################
+# NeurIPS
+##########################################
+DOMAIN-KEYWORD,neurips.cc
+
 
 
 
