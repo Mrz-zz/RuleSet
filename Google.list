@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
 
 ##########################################
 # Android
