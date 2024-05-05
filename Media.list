@@ -10,12 +10,6 @@ DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 
 ##########################################
-# YouTube Music
-##########################################
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-
-##########################################
 # Apple TV
 ##########################################
 DOMAIN,linear.tv.apple.com
