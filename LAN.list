@@ -15,4 +15,4 @@ IP-CIDR6,fd00::/8,no-resolve
 # web service
 ##########################################
 IP-CIDR,123.6.102.0/8,no-resolve
-IP-CIDR,157.230.194.0/8,,no-resolve
+IP-CIDR,157.230.194.0/8,no-resolve
