@@ -1,5 +1,5 @@
 ####################################################################################
-#                          Resource & Software Related Rules                       #
+#                          Resource Hosting Platform Rules                         #
 ####################################################################################
 
 ##########################################
@@ -13,17 +13,12 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,brew.sh
 
 ##########################################
-# JetBrians
+# conda
 ##########################################
-DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,conda.io
 
 ##########################################
-# StackOverFlow
-##########################################
-DOMAIN-SUFFIX,stackoverflow.com
-
-##########################################
-# Amazon
+# AWS
 ##########################################
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
@@ -41,6 +36,26 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 
+
+
+
+####################################################################################
+#                            Problem Solving Related Rules                         #
+####################################################################################
+
+
+##########################################
+# StackOverFlow
+##########################################
+DOMAIN-SUFFIX,stackoverflow.com
+
+
+
+
+####################################################################################
+#                            IDE & Editor Related Rules                         #
+####################################################################################
+
 ##########################################
 # VSCode 
 ##########################################
@@ -49,3 +64,8 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,gallerycdn.vsassets.io
+
+##########################################
+# JetBrians
+##########################################
+DOMAIN-SUFFIX,jetbrains.com

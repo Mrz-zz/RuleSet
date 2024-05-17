@@ -1,107 +1,9 @@
 ####################################################################################
-#                               Academy Related Rules                              #
+#                               Blog & Forum Rules                                #
 ####################################################################################
 
 ##########################################
-# ArXiv
-##########################################
-DOMAIN-SUFFIX,arxiv.org
-
-##########################################
-# BiorXiv
-##########################################
-DOMAIN-SUFFIX,biorxiv.org
-
-##########################################
-# OpenReview
-##########################################
-DOMAIN-SUFFIX,openreview.net
-
-##########################################
-# Academy Accelerate
-##########################################
-DOMAIN-SUFFIX,mlr.press
-
-##########################################
-# SCI-Hub
-##########################################
-DOMAIN-KEYWORD,sci-hub
-
-##########################################
-# NeurIPS
-##########################################
-DOMAIN-KEYWORD,neurips.cc
-
-
-
-
-
-####################################################################################
-#                          Resource & Software Related Rules                       #
-####################################################################################
-
-##########################################
-# HuggingFace
-##########################################
-DOMAIN-SUFFIX,huggingface.co
-
-##########################################
-# HomeBrew
-##########################################
-DOMAIN-SUFFIX,brew.sh
-
-##########################################
-# JetBrians
-##########################################
-DOMAIN-SUFFIX,jetbrains.com
-
-##########################################
-# StackOverFlow
-##########################################
-DOMAIN-SUFFIX,stackoverflow.com
-
-##########################################
-# Amazon
-##########################################
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN,d3c33hcgiwev3.cloudfront.net
-DOMAIN,payments-jp.amazon.com
-DOMAIN,s3-ap-northeast-1.amazonaws.com
-DOMAIN,s3-ap-southeast-2.amazonaws.com
-
-##########################################
-# GitHub
-##########################################
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-
-##########################################
-# VSCode 
-##########################################
-DOMAIN-SUFFIX,vscode.dev
-DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
-DOMAIN-SUFFIX,gallerycdn.vsassets.io
-
-
-
-
-####################################################################################
-#                               Daily Related Rules                                #
-####################################################################################
-
-##########################################
-# Forvo
-##########################################
-DOMAIN-SUFFIX,forvo.com
-
-##########################################
-# v2ex
+# V2EX
 ##########################################
 DOMAIN-SUFFIX,v2ex.com
 
@@ -145,11 +47,6 @@ DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,imgur.com
 
 ##########################################
-# Perplexity
-##########################################
-DOMAIN-SUFFIX,perplexity.ai
-
-##########################################
 # Dropbox
 ##########################################
 DOMAIN-SUFFIX,dropbox.com
@@ -163,10 +60,9 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 
 ##########################################
-# conda
+# Forvo
 ##########################################
-DOMAIN-SUFFIX,conda.io
-
+DOMAIN-SUFFIX,forvo.com
 
 
 

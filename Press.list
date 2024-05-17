@@ -1,77 +1,34 @@
-##########################################
-# DOI
-##########################################
-DOMAIN-SUFFIX,doi.org
+####################################################################################
+#                               Academy Related Rules                              #
+####################################################################################
 
 ##########################################
-# SCI 
+# ArXiv
 ##########################################
-DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,cabdirect.org
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,arxiv.org
 
 ##########################################
-## Willey
+# BiorXiv
 ##########################################
-DOMAIN-SUFFIX,wiley.com
-DOMAIN-KEYWORD,readcube
-
+DOMAIN-SUFFIX,biorxiv.org
 
 ##########################################
-# Elsevier
+# OpenReview
 ##########################################
-DOMAIN-SUFFIX,scopus.com
-DOMAIN-KEYWORD,sciencedirect
-DOMAIN-KEYWORD,elsevier
-DOMAIN-KEYWORD,deepdyve
-DOMAIN-KEYWORD,els-cdn
+DOMAIN-SUFFIX,openreview.net
 
 ##########################################
-# Oxford
+# Academy Accelerate
 ##########################################
-DOMAIN-SUFFIX,oup.com
-
-
-##########################################
-# Springer
-##########################################
-DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,mlr.press
 
 ##########################################
-# ACM 
+# SCI-Hub
 ##########################################
-DOMAIN-SUFFIX,acm.org
+DOMAIN-KEYWORD,sci-hub
 
 ##########################################
-# IEEE
+# NeurIPS
 ##########################################
-DOMAIN-SUFFIX,ieee.org
+DOMAIN-KEYWORD,neurips.cc
 
-##########################################
-## JSTOR
-##########################################
-DOMAIN-SUFFIX,jstor.org
-
-##########################################
-# CNKI
-##########################################
-DOMAIN-KEYWORD,cnki.net
-
-##########################################
-# WangFang
-##########################################
-DOMAIN-KEYWORD,wanfangdata
-
-
-##########################################
-# China Law
-##########################################
-DOMAIN-KEYWORD,pkulaw
-DOMAIN-KEYWORD,westlawchina
