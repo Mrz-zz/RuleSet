@@ -1,15 +1,11 @@
-# Microsoft Services
-# optimized from https://gist.github.com/TTTPOB/ce93fb3b04ba2f21880b09427442d831
-# source: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
-
 ##########################################
-# ask
+# Ask
 ##########################################
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akadns.net
 
 ##########################################
-# azure
+# Azure
 ##########################################
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
@@ -17,38 +13,106 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurerms.com
 
 ##########################################
-# bing
+# Bing
 ##########################################
 DOMAIN-SUFFIX,bing.com
 
 ##########################################
-# office365
+# Office365
 ##########################################
+DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officeppe.net
-
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onedrive.live.com
-
 DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onestore.ms
-
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,outlookmobile.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
+DOMAIN-SUFFIX,o365weve.com
+DOMAIN-SUFFIX,oaspapps.com
+DOMAIN-SUFFIX,omniroot.com
 
+##########################################
+# Skype
+##########################################
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 
-DOMAIN-SUFFIX,sway-cdn.com
-DOMAIN-SUFFIX,sway-extensions.com
-DOMAIN-SUFFIX,sway.com
+##########################################
+# Onedrive
+##########################################
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,acompli.com
+DOMAIN-SUFFIX,acompli.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+
+##########################################
+# Outlook
+##########################################
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,phonefactor.net
+DOMAIN-SUFFIX,sfbassets.com
+DOMAIN-SUFFIX,outlookmobile.com
+DOMAIN-SUFFIX,public-trust.com
+
+##########################################
+# Windows
+##########################################
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windows-ppe.net
+
+##########################################
+# MISC
+##########################################
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,mstea.ms
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,docs.com
+DOMAIN-SUFFIX,yammer.com
+DOMAIN-SUFFIX,yammerusercontent.com
+DOMAIN-SUFFIX,wunderlist.com
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,virtualearth.net
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,asp.net
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,assets-yammer.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudappsecurity.com
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msocsp.com
