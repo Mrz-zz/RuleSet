@@ -2,9 +2,10 @@
 # Apple
 ##########################################
 USER-AGENT,com.apple.appstored*
+USER-AGENT,cloudd*
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,icloud-content.com
-USER-AGENT,cloudd*
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,cdn-apple.com
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN,developer.apple.com
 DOMAIN,sandbox.itunes.apple.com
+
 
 ##########################################
 # Apple Music
