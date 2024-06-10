@@ -20,4 +20,4 @@ IP-CIDR,20.2.8.0/8
 ##########################################
 # MISC
 ##########################################
-DOMAIN,ip.istatmenus.app
+DOMAIN-SUFFIX,istatmenus.app
