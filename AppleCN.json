@@ -1,0 +1,60 @@
+{
+    "rules": [
+        //   Apple 
+        {
+            "domain": [
+                "captive.apple.com",
+                "time-ios.apple.com",
+                "developer.apple.com",
+                "sandbox.itunes.apple.com"
+            ],
+            "domain_suffix": [
+                "mzstatic.com",
+                "icloud-content.com",
+                "icloud.com",
+                "aaplimg.com",
+                "cdn20.com",
+                "cdn-apple.com",
+                "akadns.net",
+                "akamaiedge.net",
+                "edgekey.net",
+                "mwcloudcdn.com",
+                "mwcname.com",
+                "apple-cloudkit.com",
+                "apple-mapkit.com",
+                "gateway.push-apple.com.akadns.net",
+                "push.apple.com"
+            ]
+        },
+        //   Apple Music
+        {
+            "domain": [
+                "aod.itunes.apple.com",
+                "audio.itunes.apple.com",
+                "audio-ssl.itunes.apple.com",
+                "mvod.itunes.apple.com",
+                "streamingaudio.itunes.apple.com"
+            ],
+            "domain_suffix": [
+                "blobstore.apple.com",
+                "music.apple.com"
+            ]
+        },
+        // Apple Store Connect
+        {
+            "domain": [
+                "appstoreconnect.apple.com",
+                "iosapps-ssl.itunes.apple.com",
+                "itcmobile.itunes.apple.com"
+            ]
+        },
+        // TestFlight
+        {
+            "domain": [
+                "beta.apple.com",
+                "testflight.apple.com"
+            ]
+        }
+    ],
+    "version": 1
+}
