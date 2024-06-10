@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      // "name": "V2EX"
+      "domain_suffix": [
+        "v2ex.com"
+      ]
+    },
+    {
+      // "name": "Medium"
+      "domain_suffix": [
+        "medium.com"
+      ]
+    },
+    {
+      // "name": "Zlib"
+      "domain_suffix": [
+        "zlibrary-global.se"
+      ]
+    },
+    {
+      // "name": "Ycombinator"
+      "domain_suffix": [
+        "ycombinator.com"
+      ]
+    },
+    {
+      // "name": "FlyGWF"
+      "domain_suffix": [
+        "leensa.org",
+        "taishan.pro"
+      ]
+    },
+    {
+      // "name": "Vercel"
+      "domain_suffix": [
+        "vercel.app",
+        "vercel.com"
+      ]
+    },
+    {
+      // "name": "Imgur"
+      "domain_suffix": [
+        "imgur.com"
+      ]
+    },
+    {
+      // "name": "Dropbox"
+      "domain_suffix": [
+        "dropbox.com",
+        "dropboxapi.com",
+        "dropboxusercontent.com"
+      ]
+    },
+    {
+      // "name": "Stripe"
+      "domain_suffix": [
+        "invoice.stripe.com",
+        "stripe.com"
+      ]
+    },
+    {
+      // "name": "Forvo"
+      "domain_suffix": [
+        "forvo.com"
+      ]
+    }
+  ],
+  "version": 1
+}

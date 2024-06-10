@@ -1,0 +1,135 @@
+{
+  "rules": [
+    {
+      // "name": "Ask"
+      "domain_suffix": [
+        "aka.ms",
+        "akadns.net"
+      ]
+    },
+    {
+      // "name": "Azure"
+      "domain_suffix": [
+        "azure.com",
+        "azure.net",
+        "azureedge.net",
+        "azurerms.com"
+      ]
+    },
+    {
+      // "name": "Bing"
+      "domain_suffix": [
+        "bing.com"
+      ]
+    },
+    {
+      //  "name": "Office365"
+      "domain": [
+        "officecdn-microsoft-com.akamaized.net"
+      ],
+      "domain_suffix": [
+        "office.com",
+        "office.net",
+        "office365.com",
+        "officeppe.net",
+        "onenote.net",
+        "onenote.com",
+        "onestore.ms",
+        "sharepoint.com",
+        "sharepointonline.com",
+        "sway.com",
+        "sway-cdn.com",
+        "sway-extensions.com",
+        "o365weve.com",
+        "oaspapps.com",
+        "omniroot.com"
+      ]
+    },
+    {
+      // "name": "Skype"
+      "domain_suffix": [
+        "skype.com",
+        "skypeassets.com",
+        "skypeforbusiness.com"
+      ]
+    },
+    {
+      // "name": "Onedrive"
+      "domain_suffix": [
+        "1drv.com",
+        "aadrm.com",
+        "acompli.com",
+        "acompli.net",
+        "onedrive.com",
+        "onedrive.live.com"
+      ]
+    },
+    {
+      // "name": "Outlook"
+      "domain_suffix": [
+        "live.com",
+        "live.net",
+        "lync.com",
+        "outlook.com",
+        "hotmail.com",
+        "phonefactor.net",
+        "sfbassets.com",
+        "outlookmobile.com",
+        "public-trust.com"
+      ]
+    },
+    {
+      // "name": "Windows"
+      "domain_suffix": [
+        "windows.com",
+        "windows.net",
+        "windowsazure.com",
+        "windowsupdate.com",
+        "windows-ppe.net"
+      ]
+    },
+    {
+      // "name": "MISC"
+      "domain_suffix": [
+        "svc.ms",
+        "sfx.ms",
+        "gfx.ms",
+        "aria.ms",
+        "mstea.ms",
+        "clarity.ms",
+        "staffhub.ms",
+        "appcenter.ms",
+        "docs.com",
+        "yammer.com",
+        "yammerusercontent.com",
+        "wunderlist.com",
+        "trafficmanager.net",
+        "uservoice.com",
+        "virtualearth.net",
+        "visualstudio.com",
+        "asp.net",
+        "aspnetcdn.com",
+        "assets-yammer.com",
+        "cloudapp.net",
+        "cloudappsecurity.com",
+        "edgesuite.net",
+        "microsoft.com",
+        "microsoftonline.com",
+        "msappproxy.net",
+        "msauth.net",
+        "msauthimages.net",
+        "msecnd.net",
+        "msedge.net",
+        "msft.net",
+        "msftauth.net",
+        "msftauthimages.net",
+        "msftidentity.com",
+        "msidentity.com",
+        "msn.com",
+        "msocdn.com",
+        "msocsp.com"
+      ]
+    }
+  ],
+  "version": 1
+}

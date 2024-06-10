@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      // "name": "ArXiv"
+      "domain_suffix": [
+        "arxiv.org"
+      ]
+    },
+    {
+      // "name": "BiorXiv"
+      "domain_suffix": [
+        "biorxiv.org"
+      ]
+    },
+    {
+      // "name": "OpenReview"
+      "domain_suffix": [
+        "openreview.net"
+      ]
+    },
+    {
+      // "name": "Academy Accelerate"
+      "domain_suffix": [
+        "mlr.press"
+      ]
+    },
+    {
+      // "name": "SCI-Hub"
+      "domain_keyword": [
+        "sci-hub"
+      ]
+    },
+    {
+      // "name": "NeurIPS"
+      "domain_keyword": [
+        "neurips.cc"
+      ]
+    }
+  ],
+  "version": 1
+}

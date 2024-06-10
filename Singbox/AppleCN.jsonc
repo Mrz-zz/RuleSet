@@ -1,6 +1,6 @@
 {
     "rules": [
-        //   Apple 
+        // name: Apple
         {
             "domain": [
                 "captive.apple.com",
@@ -26,7 +26,7 @@
                 "push.apple.com"
             ]
         },
-        //   Apple Music
+        // name: Apple Music
         {
             "domain": [
                 "aod.itunes.apple.com",
@@ -40,7 +40,7 @@
                 "music.apple.com"
             ]
         },
-        // Apple Store Connect
+        // name: Apple Store Connect
         {
             "domain": [
                 "appstoreconnect.apple.com",
@@ -48,7 +48,7 @@
                 "itcmobile.itunes.apple.com"
             ]
         },
-        // TestFlight
+        // name: TestFlight
         {
             "domain": [
                 "beta.apple.com",

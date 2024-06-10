@@ -1,0 +1,80 @@
+{
+  "rules": [
+    {
+      // "name": "OpenAI"
+      "domain_suffix": [
+        "ai.com",
+        "auth0.com",
+        "chatgpt.com"
+      ],
+      "domain_keyword": [
+        "openai"
+      ]
+    },
+    {
+      // "name": "ai.com"
+      "domain_suffix": [
+        "ai.com"
+      ]
+    },
+    {
+      // "name": "POE"
+      "domain_suffix": [
+        "poe.com"
+      ]
+    },
+    {
+      // "name": "Google Bard"
+      "domain_suffix": [
+        "bard.google.com"
+      ]
+    },
+    {
+      // "name": "intelj AI"
+      "domain_suffix": [
+        "grazie.aws.intellij.net"
+      ]
+    },
+    {
+      // "name": "Claude"
+      "domain_keyword": [
+        "claude.ai"
+      ],
+      "domain_suffix": [
+        "anthropic.com"
+      ]
+    },
+    {
+      // "name": "Suno"
+      "domain_keyword": [
+        "suno.ai"
+      ]
+    },
+    {
+      // "name": "Coze"
+      "domain_keyword": [
+        "coze.com"
+      ]
+    },
+    {
+      // "name": "Meta AI"
+      "domain_suffix": [
+        "meta.ai",
+        "ai.meta.com"
+      ]
+    },
+    {
+      // "name": "Groq"
+      "domain_suffix": [
+        "groq.com"
+      ]
+    },
+    {
+      // "name": "Perplexity"
+      "domain_suffix": [
+        "perplexity.ai"
+      ]
+    }
+  ],
+  "version": 1
+}

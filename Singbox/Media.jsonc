@@ -1,0 +1,278 @@
+{
+    "rules": [
+        {
+            // "name": "Spotify"
+            "domain_suffix": [
+                "pscdn.co",
+                "scdn.co",
+                "spotify.com",
+                "spoti.fi"
+            ],
+            "domain_keyword": [
+                "spotify.com",
+                "-spotify-com"
+            ]
+        },
+        {
+            // "name": "Apple TV"
+            "domain": [
+                "linear.tv.apple.com",
+                "play-edge.itunes.apple.com"
+            ]
+        },
+        {
+            // "name": "Disney+"
+            "domain_suffix": [
+                "bamgrid.com",
+                "disneyplus.com",
+                "disney-plus.net",
+                "disneystreaming.com",
+                "dssott.com"
+            ],
+            "domain": [
+                "cdn.registerdisney.go.com"
+            ]
+        },
+        {
+            // "name": "FOX NOW"
+            "domain_suffix": [
+                "fox.com",
+                "foxdcg.com",
+                "theplatform.com",
+                "uplynk.com",
+                "foxplus.com"
+            ],
+            "domain": [
+                "cdn-fox-networks-group-green.akamaized.net",
+                "d3cv4a9a9wh0bt.cloudfront.net",
+                "foxsports01-i.akamaihd.net",
+                "foxsports02-i.akamaihd.net",
+                "foxsports03-i.akamaihd.net",
+                "staticasiafox.akamaized.net"
+            ]
+        },
+        {
+            // "name": "HBO NOW & Max"
+            "domain_suffix": [
+                "hbo.com",
+                "hbogo.com",
+                "hbonow.com",
+                "hbomax.com",
+                "hbomaxcdn.com",
+                "hbogoasia.com",
+                "hbogoasia.hk"
+            ],
+            "domain": [
+                "bcbolthboa-a.akamaihd.net",
+                "players.brightcove.net",
+                "s3-ap-southeast-1.amazonaws.com",
+                "dai3fd1oh325y.cloudfront.net",
+                "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
+                "hboasia1-i.akamaihd.net",
+                "hboasia2-i.akamaihd.net",
+                "hboasia3-i.akamaihd.net",
+                "hboasia4-i.akamaihd.net",
+                "hboasia5-i.akamaihd.net",
+                "cf-images.ap-southeast-1.prod.boltdns.net"
+            ]
+        },
+        {
+            // "name": "Hulu"
+            "domain_suffix": [
+                "hulu.com",
+                "huluim.com",
+                "hulustream.com",
+                "happyon.jp",
+                "hjholdings.jp",
+                "hulu.jp"
+            ]
+        },
+        {
+            // "name": "Netflix"
+            "domain_suffix": [
+                "netflix.com",
+                "netflix.net",
+                "nflxext.com",
+                "nflximg.com",
+                "nflximg.net",
+                "nflxso.net",
+                "nflxvideo.net",
+                "netflixdnstest0.com",
+                "netflixdnstest1.com",
+                "netflixdnstest2.com",
+                "netflixdnstest3.com",
+                "netflixdnstest4.com",
+                "netflixdnstest5.com",
+                "netflixdnstest6.com",
+                "netflixdnstest7.com",
+                "netflixdnstest8.com",
+                "netflixdnstest9.com"
+            ],
+            "domain_keyword": [
+                "dualstack.apiproxy-",
+                "dualstack.ichnaea-web-"
+            ],
+            "ip_cidr": [
+                "23.246.0.0/18",
+                "37.77.184.0/21",
+                "45.57.0.0/17",
+                "64.120.128.0/17",
+                "66.197.128.0/17",
+                "108.175.32.0/20",
+                "192.173.64.0/18",
+                "198.38.96.0/19",
+                "198.45.48.0/20",
+                "34.210.42.111/32",
+                "52.89.124.203/32",
+                "54.148.37.5/32"
+            ]
+        },
+        {
+            // "name": "TikTok"
+            "domain_suffix": [
+                "byteoversea.com",
+                "ibytedtos.com",
+                "muscdn.com",
+                "musical.ly",
+                "tiktok.com",
+                "tik-tokapi.com",
+                "tiktokcdn.com",
+                "tiktokv.com"
+            ],
+            "domain_keyword": [
+                "tiktokcdn"
+            ]
+        },
+        {
+            // "name": "Twitch"
+            "domain_suffix": [
+                "jtvnw.net",
+                "ttvnw.net",
+                "twitch.tv",
+                "twitchcdn.net"
+            ]
+        },
+        {
+            // "name": "YouTube"
+            "domain_suffix": [
+                "googlevideo.com",
+                "youtube.com",
+                "ytimg.com",
+                "googleapis.com"
+            ],
+            "domain": [
+                "yt3.ggpht.com"
+            ]
+        },
+        {
+            // "name": "Discord"
+            "domain_suffix": [
+                "discordapp.com",
+                "discordapp.net"
+            ]
+        },
+        {
+            // "name": "Facebook"
+            "domain_suffix": [
+                "cdninstagram.com",
+                "facebook.com",
+                "facebook.net",
+                "fb.com",
+                "fb.me",
+                "fbaddins.com",
+                "fbcdn.net",
+                "fbsbx.com",
+                "fbworkmail.com",
+                "instagram.com",
+                "m.me",
+                "messenger.com",
+                "oculus.com",
+                "oculuscdn.com",
+                "rocksdb.org",
+                "whatsapp.com",
+                "whatsapp.net",
+                "facebookmail.com"
+            ]
+        },
+        {
+            // "name": "Reddit"
+            "domain_suffix": [
+                "redd.it",
+                "reddit.com",
+                "redditstatic.com",
+                "redditmedia.com"
+            ]
+        },
+        {
+            // "name": "Telegram"
+            "domain_suffix": [
+                "cdn-telegram.org",
+                "comments.app",
+                "contest.com",
+                "graph.org",
+                "legra.ph",
+                "mbrx.app",
+                "quiz.directory",
+                "stel.com",
+                "t.me",
+                "tdesktop.com",
+                "telega.one",
+                "telegra.ph",
+                "telegram-cdn.org",
+                "telegram.dog",
+                "telegram.me",
+                "telegram.org",
+                "telegram.space",
+                "telegramdownload.com",
+                "telesco.pe",
+                "tg.dev",
+                "tx.me",
+                "usercontent.dev"
+            ],
+            "domain_keyword": [
+                "nicegram"
+            ],
+            "ip_cidr": [
+                "109.239.140.0/24",
+                "149.154.160.0/20",
+                "5.28.192.0/18",
+                "91.108.0.0/16"
+            ],
+            "ip_cidr6": [
+                "2001:67c:4e8::/48",
+                "2001:b28:f23c::/47",
+                "2001:b28:f23f::/48",
+                "2a0a:f280::/29"
+            ]
+        },
+        {
+            // "name": "Twitter"
+            "domain_suffix": [
+                "t.co",
+                "twimg.co",
+                "twimg.com",
+                "twitpic.com",
+                "twitter.com",
+                "vine.co",
+                "twitter.jp"
+            ]
+        },
+        {
+            // "name": "Wikimedia"
+            "domain_suffix": [
+                "wikileaks.org",
+                "wikimapia.org",
+                "wikimedia.org",
+                "wikinews.org",
+                "wikipedia.org",
+                "wikiquote.org"
+            ]
+        },
+        {
+            // "name": "Domain Specific"
+            "domain_suffix": [
+                "mil"
+            ]
+        }
+    ]
+}

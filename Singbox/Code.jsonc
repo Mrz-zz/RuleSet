@@ -1,0 +1,56 @@
+{
+  "rules": [
+    // name: HuggingFace
+    {
+      "domain_suffix": ["huggingface.co"]
+    },
+    // name: HomeBrew
+    {
+      "domain_suffix": ["brew.sh"]
+    },
+    // name: Anaconda
+    {
+      "domain_suffix": ["conda.io"]
+    },
+    // name: AWS
+    {
+      "domain": [
+        "d3c33hcgiwev3.cloudfront.net",
+        "payments-jp.amazon.com",
+        "s3-ap-northeast-1.amazonaws.com",
+        "s3-ap-southeast-2.amazonaws.com"
+      ],
+      "domain_suffix": ["amazon.co.jp"]
+    },
+    // name: Github
+    {
+      "domain_suffix": [
+        "github.com",
+        "github.dev",
+        "github.io",
+        "githubusercontent.com",
+        "githubapp.com",
+        "githubassets.com"
+      ]
+    },
+    // name: StackOverFlow
+    {
+      "domain_suffix": ["stackoverflow.com"]
+    },
+    // name: VSCode
+    {
+      "domain_suffix": [
+        "vscode.dev",
+        "vscode-unpkg.net",
+        "vscode-cdn.net",
+        "vscode-sync.trafficmanager.net",
+        "gallerycdn.vsassets.io"
+      ]
+    },
+    // name: Jetbrains
+    {
+      "domain_suffix": ["jetbrains.com"]
+    }
+  ],
+  "version": 1
+}

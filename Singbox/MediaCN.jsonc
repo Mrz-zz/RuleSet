@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            // "name": "BiliBili"
+            "domain_suffix": [
+                "acgvideo.com",
+                "biliapi.com",
+                "biliapi.net",
+                "bilibili.com",
+                "bilibili.tv",
+                "hdslb.com"
+            ]
+        }
+    ]
+}

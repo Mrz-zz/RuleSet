@@ -1,0 +1,28 @@
+{
+    "rules": [
+        // name: Apple news
+        {
+            "domain": [
+                "news-edge.apple.com",
+                "c.apple.news"
+            ]
+        },
+        // name: Apple LookUp
+        {
+            "domain": [
+                "lookup-api.apple.com"
+            ],
+            "domain_suffix": [
+                "smoot.apple.com"
+            ]
+        },
+        // name: Apple Store Encrypt
+        {
+            "domain": [
+                "ocsp.apple.com",
+                "xp.apple.com"
+            ]
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "google.com.hk",
+        "googleusercontent.com",
+        "xn--ngstr-lra8j.com",
+        "googleapis.com",
+        "ai.google.dev"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "android.com",
+        "androidify.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "chrome.com",
+        "chromeexperiments.com",
+        "chromestatus.com",
+        "chromium.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gmail.com",
+        "gmodules.com",
+        "godoc.org",
+        "golang.org",
+        "gstatic.com",
+        "gv.com",
+        "tensorflow.org",
+        "tfhub.dev",
+        "waymo.com",
+        "webmproject.org",
+        "webrtc.org",
+        "whatbrowser.org",
+        "widevine.com",
+        "x.company"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "googleblog.com"
+      ]
+    }
+  ],
+  "version": 1
+}

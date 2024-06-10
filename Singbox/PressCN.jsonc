@@ -1,0 +1,96 @@
+{
+    "rules": [
+        {
+            // "name": "DOI"
+            "domain_suffix": [
+                "doi.org"
+            ]
+        },
+        {
+            // "name": "SCI"
+            "domain_suffix": [
+                "researchgate.net",
+                "springer.com",
+                "blackwell-synergy.com",
+                "sciencemag.org",
+                "jstor.org",
+                "cabdirect.org",
+                "ieee.org",
+                "nature.com",
+                "sciencemag.org",
+                "osapublishing.org"
+            ]
+        },
+        {
+            // "name": "Willey"
+            "domain_suffix": [
+                "wiley.com"
+            ],
+            "domain_keyword": [
+                "readcube"
+            ]
+        },
+        {
+            // "name": "Elsevier"
+            "domain_suffix": [
+                "scopus.com"
+            ],
+            "domain_keyword": [
+                "sciencedirect",
+                "elsevier",
+                "deepdyve",
+                "els-cdn"
+            ]
+        },
+        {
+            // "name": "Oxford"
+            "domain_suffix": [
+                "oup.com"
+            ]
+        },
+        {
+            // "name": "Springer"
+            "domain_suffix": [
+                "springernature.com"
+            ]
+        },
+        {
+            // "name": "ACM"
+            "domain_suffix": [
+                "acm.org"
+            ]
+        },
+        {
+            // "name": "IEEE",
+            "domain_suffix": [
+                "ieee.org"
+            ]
+        },
+        {
+            // "name": "JSTOR"
+            "domain_suffix": [
+                "jstor.org"
+            ]
+        },
+        {
+            // "name": "CNKI"
+            "domain_keyword": [
+                "cnki.net"
+            ]
+        },
+        {
+            // "name": "WangFang"
+            "domain_keyword": [
+                "wanfangdata"
+            ]
+        },
+        {
+            // "name": "China Law"
+            "domain_keyword": [
+                "pkulaw",
+                "westlawchina"
+            ]
+        }
+    ],
+    "version": 1
+}
