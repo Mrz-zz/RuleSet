@@ -229,6 +229,7 @@ IP-CIDR6,2a0a:f280::/29,no-resolve
 # Twitter
 ##########################################
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
