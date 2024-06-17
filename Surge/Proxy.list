@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,vercel.com
 # Imgur
 ##########################################
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgurinc.com
 
 ##########################################
 # Dropbox
