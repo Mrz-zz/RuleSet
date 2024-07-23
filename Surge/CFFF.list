@@ -2,4 +2,6 @@
 # CFFF
 ##########################################
 DOMAIN-SUFFIX,fudan.edu.cn
+IP-CIDR,10.193.44.129,no-resolve
 IP-CIDR,10.139.0.0/16,no-resolve
+
