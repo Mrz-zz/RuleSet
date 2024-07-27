@@ -1,5 +1,5 @@
 ##########################################
-# CFFF
+# Remote
 ##########################################
-DOMAIN-SUFFIX,fudan.edu.cn
-IP-CIDR,10.193.44.0/8,no-resolve
+DOMAIN-SUFFIX,frp-net.top
+DOMAIN-SUFFIX,frp-any.top
